@@ -1,2 +1,2 @@
 # CovidBodyDefense
-This is a tower defense video game I based on COVID 19.
+This is a tower defense video game I made based on COVID 19.
